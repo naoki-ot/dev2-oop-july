@@ -1,0 +1,16 @@
+4 MAIN FOLDERS:
+    - assets ~~ images and CSS
+    - actions ~~ action pages ~~ collects the form-data
+    - classes ~~ logic / process / function files
+    - views ~~ UI / User Interface / view files
+
+FLOW OF A PROJECT:
+    1. Database & Database Tables
+    2. Database Connection
+    3. Feature
+        3.1 - Feature class file
+        3.2 - Feature Function (CRUD)
+            a. View File
+            b. Action File
+            c. Method (SQL)
+    
